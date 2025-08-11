@@ -1,5 +1,5 @@
 # Eae! Eu sou o Marcos :)
-**`Desenvolvedor Iniciante/Estudante`** <br><br>
+**`Desenvolvedor | Estudante`** <br><br>
 🚀🚀
 <img align="right" height= "150" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDB1cXoydHB6d3k3emZ2dDJyMjFrbzg5MGlsd2prMjF6ZWNlNjR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 ##
