@@ -1,4 +1,4 @@
-# Eae! Eu sou o Marcos :)
+# 👩🏻‍💻 Eae! Eu sou o Marcos :)
 **`Desenvolvedor em Ascensão | Estudante`** <br><br>
 🚀🚀
 
@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Eduardo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Eduardo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
+<img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Eduardo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
 </div>
 
 ##
@@ -18,7 +18,7 @@
   <img align="center" height="40" width="50" src="https://devicon-website.vercel.app/api/javascript/original.svg">
     
 ##
-
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
 
