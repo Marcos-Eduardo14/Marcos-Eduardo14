@@ -1,11 +1,14 @@
 # Eae! Eu sou o Marcos :)
 **`Desenvolvedor em Ascensão | Estudante`** <br><br>
 🚀🚀
-<img align="right" height= "150" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDB1cXoydHB6d3k3emZ2dDJyMjFrbzg5MGlsd2prMjF6ZWNlNjR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
+
 ##
 
-<div style="display: inline_block">
+<img align="right" height= "200" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDB1cXoydHB6d3k3emZ2dDJyMjFrbzg5MGlsd2prMjF6ZWNlNjR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
+
+<div style="display: inline_block"><br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Eduardo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Eduardo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
 </div>
 
 ##
@@ -13,8 +16,7 @@
   <img align="center" height="40" width="50" src="https://devicon-website.vercel.app/api/html5/original.svg">
   <img align="center" height="40" width="50" src="https://devicon-website.vercel.app/api/css3/original.svg"> 
   <img align="center" height="40" width="50" src="https://devicon-website.vercel.app/api/javascript/original.svg">
-</div>
-
+    
 ##
 
 
