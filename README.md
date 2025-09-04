@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eae! Eu sou o Marcos :)
+# 👩🏻‍💻 Eae! Eu sou o Marcos ou Marquin :)
 **`Desenvolvedor em Ascensão | Estudante`** <br><br>
 🚀🚀
 
