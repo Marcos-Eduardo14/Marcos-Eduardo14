@@ -4,7 +4,7 @@
 
 ##
 
-<img align="right" height= "200" width="200" src="https://media1.tenor.com/m/vPh8mMqe5d0AAAAd/angry-hiss.gif">
+<img align="right" height= "250" width="250" src="https://media1.tenor.com/m/vPh8mMqe5d0AAAAd/angry-hiss.gif">
 
 <div style="display: inline_block"><br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Eduardo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
