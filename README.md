@@ -1,5 +1,5 @@
-# 👩🏻‍💻 Eae! Eu sou o Marcos ou Marquin :)
-**`Desenvolvedor em Ascensão`**  
+# 👩🏻‍💻 Eae! Eu sou o Marcos ou Marquin
+**`Desenvolvedor em Ascensão e Acadêmico de Análise e Desenvolvimento de Sistemas`**  
 🚀🚀
 
 ##
