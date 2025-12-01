@@ -14,11 +14,9 @@
 </a>
 
 ##
-<p align="center">
   <img height="40" width="50" src="https://devicon-website.vercel.app/api/html5/original.svg">
   <img height="40" width="50" src="https://devicon-website.vercel.app/api/css3/original.svg"> 
   <img height="40" width="50" src="https://devicon-website.vercel.app/api/javascript/original.svg">
-</p>
 
 ##
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
