@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Eae! Eu sou o Marcos ou Marquin
-**`Desenvolvedor em Ascensão e Acadêmico de Análise e Desenvolvimento de Sistemas`**  
+**`Desenvolvedor em Ascensão e Acadêmico de Análise e Desenvolvimento de Sistemas`** 
+
 🚀🚀
 
 ##
@@ -14,11 +15,12 @@
 
 ##
 
-<p>
+<p align="center">
   <img height="40" width="50" src="https://devicon-website.vercel.app/api/html5/original.svg">
   <img height="40" width="50" src="https://devicon-website.vercel.app/api/css3/original.svg"> 
   <img height="40" width="50" src="https://devicon-website.vercel.app/api/javascript/original.svg">
 </p>
+
 
 ##
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
